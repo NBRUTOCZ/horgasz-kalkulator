@@ -3,6 +3,7 @@ numpy
 scikit-fuzzy
 matplotlib
 requests
-
+networkx
 urllib3
 scipy
+
