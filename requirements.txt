@@ -1,0 +1,6 @@
+streamlit
+numpy
+scikit-fuzzy
+matplotlib
+requests
+urllib3
